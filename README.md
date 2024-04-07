@@ -6,7 +6,7 @@ Este é um simples script em Python para organizar arquivos em uma pasta selecio
 
 1. Certifique-se de ter Python instalado em seu sistema.
 2. Clone ou baixe este repositório.
-3. Execute o script `organizador_arquivos.py`.
+3. Execute o script.
 4. Selecione a pasta que deseja organizar.
 5. O script irá organizar os arquivos de acordo com sua extensão em subpastas criadas automaticamente.
 
